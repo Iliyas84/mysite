@@ -1,0 +1,67 @@
+.head a, head button {
+  margin: 10px;
+}
+
+.link button {
+  background-color: blue;
+  border-radius: 10px;
+  font-weight: bold;
+}
+
+.tb {
+  float: right;
+}
+
+.div0 {
+  font-size: 70px;
+padding: 30px;
+  
+animation: mymo1 5s infinite;
+  animation: mymo 2s infinite;
+}
+
+.search {
+  color: black;
+  height: 7vh;
+  font-size: 25px;
+  padding: 10px;
+  border-radius: 20px;
+  border: none;
+
+}
+
+.search-btn {
+  height: 50px;
+  border-radius: 20px;
+  font-size: 25px;
+  padding: 10px;
+  color: #ooo;
+  background: #ffeb3b;
+}
+
+.div2 {
+  color: blue;
+  margin-right: 180vh;
+  font-size: 20px;
+}
+
+.myDiv{
+  position: absolute;
+  width: 90px;
+  height: 90px;
+  background-color: coral;
+  color:white;
+  top: 0;
+  right: 0;
+  animation: mymove 8s infinite;
+  border-radius:50px;
+}
+
+
+.mp3 {
+  color: red;
+}
+
+.mp4 {
+  color: red;
+}
